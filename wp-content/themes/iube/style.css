@@ -1,0 +1,16 @@
+/*!
+ Theme Name: Iube
+Theme URI: https://webdesignrs.com
+Author: Maicon Cabral
+Author URI: https://maiconcabral.com.br
+Description: tema padrão para projetos de wordpress
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: movie, blog, magazine, db, 
+Text Domain: Iube
+*/
+
+/* depois chamar min/main.css*/
+@import './assets/css/main.css';
+/*# sourceMappingURL=css/style.css.map */
